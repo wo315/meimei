@@ -224,9 +224,9 @@ refund = total_fee * ( 1 - math.floor(learning_time)  / total_learning_time)
 ## 收费方式
 暂时没有对公渠道，非常抱歉！未来一定会有！
 ### 支付宝
-![image](../images/alipay.jpeg)
+![image](images/alipay.jpeg)
 
 
 ### 微信
-![image](../images/wechat.jpeg)
+![image](images/wechat.jpeg)
 
