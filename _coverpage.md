@@ -7,3 +7,4 @@
 
 [**联系作者**]()
 [**开启阅读**](README.md)
+[**开启阅读**](./lecture/Lecture1/lecture1.html)
