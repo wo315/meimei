@@ -6,4 +6,4 @@
 
 
 [**联系作者**]()
-[**课件**](lecture/Lecture1/lecture1.html)
+[**开启阅读**](README.md)
